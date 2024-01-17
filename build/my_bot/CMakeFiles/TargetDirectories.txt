@@ -1,0 +1,9 @@
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot/CMakeFiles/uninstall.dir
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot/CMakeFiles/my_bot_uninstall.dir
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot/CMakeFiles/test.dir
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot/CMakeFiles/edit_cache.dir
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot/CMakeFiles/rebuild_cache.dir
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot/CMakeFiles/list_install_components.dir
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot/CMakeFiles/install.dir
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot/CMakeFiles/install/local.dir
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot/CMakeFiles/install/strip.dir

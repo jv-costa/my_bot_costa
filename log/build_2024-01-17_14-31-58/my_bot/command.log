@@ -1,0 +1,6 @@
+Invoking command in '/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/jv_costa/Pequi-Mecânico/my_bot_costa -DCMAKE_INSTALL_PREFIX=/home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot
+Invoked command in '/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/jv_costa/Pequi-Mecânico/my_bot_costa -DCMAKE_INSTALL_PREFIX=/home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot
+Invoking command in '/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot -- -j16 -l16
+Invoked command in '/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot -- -j16 -l16
+Invoking command in '/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot
+Invoked command in '/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot
