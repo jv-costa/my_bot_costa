@@ -1,9 +1,11 @@
 /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/config/empty.yaml
 /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/config/view_bot.rviz
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/description/gazebo_control.xacro
 /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/description/inertial_macros.xacro
 /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/description/robot.urdf.xacro
 /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/description/robot_core.xacro
 /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/launch/rsp.launch.py
+/home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/launch/rsp_sim.launch.py
 /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/worlds/empty.world
 /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
 /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
