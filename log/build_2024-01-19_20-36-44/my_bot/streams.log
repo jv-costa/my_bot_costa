@@ -1,0 +1,30 @@
+[0.029s] Invoking command in '/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot -- -j16 -l16
+[0.052s] Invoked command in '/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot -- -j16 -l16
+[0.087s] Invoking command in '/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot
+[0.094s] -- Install configuration: ""
+[0.095s] -- Execute custom install script
+[0.095s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/config/empty.yaml
+[0.096s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/config/view_bot.rviz
+[0.096s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/description/gazebo_control.xacro
+[0.096s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/description/inertial_macros.xacro
+[0.096s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[0.096s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/description/robot_core.xacro
+[0.096s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/launch/rsp.launch.py
+[0.096s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/launch/rsp_sim.launch.py
+[0.096s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/worlds/empty.world
+[0.097s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[0.097s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[0.097s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[0.097s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[0.097s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/environment/path.sh
+[0.097s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/environment/path.dsv
+[0.098s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/local_setup.bash
+[0.098s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/local_setup.sh
+[0.098s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/local_setup.zsh
+[0.098s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/local_setup.dsv
+[0.098s] -- Symlinking: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/package.dsv
+[0.108s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[0.108s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[0.109s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[0.109s] -- Up-to-date symlink: /home/jv_costa/Pequi-Mecânico/my_bot_costa/install/my_bot/share/my_bot/package.xml
+[0.111s] Invoked command in '/home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jv_costa/Pequi-Mecânico/my_bot_costa/build/my_bot
